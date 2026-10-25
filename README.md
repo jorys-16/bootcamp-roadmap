@@ -1,7 +1,7 @@
 # Seven-Month Software Development Bootcamp
 
 A project-based roadmap covering web development, computer science,
-Python, and introductory AI.
+desktop apps with Electron, Python, and introductory AI.
 
 ## Start Here
 
@@ -14,7 +14,7 @@ Python, and introductory AI.
 
 - [Month 1: Foundations](curriculum/month-01-foundations.md)
 - [Month 2: JavaScript](curriculum/month-02-javascript.md)
-- [Month 3: React and TypeScript](curriculum/month-03-react-typescript.md)
+- [Month 3: React, TypeScript, and Electron](curriculum/month-03-react-typescript.md)
 - [Month 4: Backend and Databases](curriculum/month-04-backend-databases.md)
 - [Month 5: Testing and Deployment](curriculum/month-05-testing-deployment.md)
 - [Month 6: Python and AI](curriculum/month-06-python-ai.md)
